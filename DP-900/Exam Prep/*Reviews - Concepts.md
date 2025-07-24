@@ -1,16 +1,16 @@
 
-![[Pasted image 20250717152206.png]]
+![[reading/DP-900/Exam Prep/attachments/Pasted image 20250717152206.png]]
 
 > **Normalization improves data integrity by** ensuring data consistency, minimizing duplication, maintaining valid relationships, and enforcing rules through well-structured tables.
 
 ---
 
 
-![[Pasted image 20250717154759.png]]
+![[reading/DP-900/Exam Prep/attachments/Pasted image 20250717154759.png]]
 
 https://learn.microsoft.com/en-us/sql/relational-databases/indexes/clustered-and-nonclustered-indexes-described?view=sql-server-ver15
 
-[[Clustered and non-clustered indexes]]
+[[reading/DP-900/Exam Prep/Clustered and non-clustered indexes]]
 
 ---
 
@@ -27,7 +27,7 @@ https://learn.microsoft.com/en-us/sql/relational-databases/indexes/clustered-and
 
 ---
 
-![[Pasted image 20250717221359.png]]
+![[reading/DP-900/Exam Prep/attachments/Pasted image 20250717221359.png]]
 
 | **ตัวเลือก**     | **เหมาะกับ**                                        | **ใช้กรณีนี้ไหม?** | **เหตุผล**                          |
 | ---------------- | --------------------------------------------------- | ------------------ | ----------------------------------- |
@@ -38,10 +38,10 @@ https://learn.microsoft.com/en-us/sql/relational-databases/indexes/clustered-and
 
 ---
 
-![[Pasted image 20250717221103.png]]
+![[reading/DP-900/Exam Prep/attachments/Pasted image 20250717221103.png]]
 
 
-![[Pasted image 20250717221601.png]]
+![[reading/DP-900/Exam Prep/attachments/Pasted image 20250717221601.png]]
 
 |**ข้อที่**|**คำตอบ**|**เหตุผล**|
 |---|---|---|

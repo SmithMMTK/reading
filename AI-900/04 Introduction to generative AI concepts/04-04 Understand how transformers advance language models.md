@@ -1,4 +1,4 @@
-[[02-07 ml_concept Transformers]]
+[[reading/AI-900/02 Machine learning concepts/02-07 ml_concept Transformers]]
 
 แอปพลิเคชัน _generative AI_ ที่เราใช้กันในปัจจุบันเป็นไปได้เพราะมีการนำ _Transformer architecture_ มาใช้งาน
 

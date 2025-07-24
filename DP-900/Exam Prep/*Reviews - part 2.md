@@ -1,5 +1,5 @@
 
-![[Pasted image 20250718083210.png]]
+![[reading/DP-900/Exam Prep/attachments/Pasted image 20250718083210.png]]
 
 https://learn.microsoft.com/en-us/power-bi/paginated-reports/paginated-reports-report-builder-power-bi
 
@@ -72,7 +72,7 @@ https://learn.microsoft.com/en-us/power-bi/paginated-reports/paginated-reports-r
 
 ---
 
-![[Pasted image 20250718093046.png]]
+![[reading/DP-900/Exam Prep/attachments/Pasted image 20250718093046.png]]
 
 |**คำอธิบาย**|**บริการที่ตรง**|
 |---|---|
@@ -104,7 +104,7 @@ If your focus is on data warehousing with high daily ingestion and the need for 
 
 ---
 
-![[Pasted image 20250718100522.png]]
+![[reading/DP-900/Exam Prep/attachments/Pasted image 20250718100522.png]]
 
 **Batch workloads** คือรูปแบบการประมวลผลข้อมูลที่:
 
@@ -118,14 +118,14 @@ If your focus is on data warehousing with high daily ingestion and the need for 
 - **“process data as new data is received in near real-time.”** → นี่เป็นลักษณะของ _streaming workloads_
 
 ---
-![[Pasted image 20250718101913.png]]
+![[reading/DP-900/Exam Prep/attachments/Pasted image 20250718101913.png]]
 
 ![Diagram showing how the change feed works to provide an ordered log of changes to blobs](https://learn.microsoft.com/en-us/azure/storage/blobs/media/storage-blob-change-feed/change-feed-diagram.png)
 
 https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-change-feed?tabs=azure-portal
 ---
 
-![[Pasted image 20250718102355.png]]
+![[reading/DP-900/Exam Prep/attachments/Pasted image 20250718102355.png]]
 
 | **คำศัพท์**      | **ความหมาย (จำง่าย ๆ)**                                                                   |
 | ---------------- | ----------------------------------------------------------------------------------------- |
@@ -139,15 +139,15 @@ https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-wha
 
 Delta Lake is an open-source storage layer that brings ACID (atomicity, consistency, isolation, and durability) transactions to Apache Spark and big data workloads.
 
-![[Pasted image 20250718102904.png]]
+![[reading/DP-900/Exam Prep/attachments/Pasted image 20250718102904.png]]
 
 ---
 
-![[Pasted image 20250718144804.png]]
+![[reading/DP-900/Exam Prep/attachments/Pasted image 20250718144804.png]]
 
 ---
 
-![[Pasted image 20250718150521.png]]
+![[reading/DP-900/Exam Prep/attachments/Pasted image 20250718150521.png]]
 
 > จุดตัดของ “หลายมิติ” = จุดที่ได้ “ค่ารวม”
 > ❌ ไม่ใช่ตัวมิติ (dimension)
@@ -155,20 +155,20 @@ Delta Lake is an open-source storage layer that brings ACID (atomicity, consiste
 
 ---
 
-![[Pasted image 20250718151830.png]]
+![[reading/DP-900/Exam Prep/attachments/Pasted image 20250718151830.png]]
 
 ---
 
-![[Pasted image 20250718152253.png]]
+![[reading/DP-900/Exam Prep/attachments/Pasted image 20250718152253.png]]
 
 ---
 
-![[Pasted image 20250718153824.png]]
+![[reading/DP-900/Exam Prep/attachments/Pasted image 20250718153824.png]]
 
 
 ---
 
-![[Pasted image 20250718154537.png]]
+![[reading/DP-900/Exam Prep/attachments/Pasted image 20250718154537.png]]
 
 |**Data storage option**|**Match with**|
 |---|---|
@@ -178,13 +178,13 @@ Delta Lake is an open-source storage layer that brings ACID (atomicity, consiste
 
 ---
 
-![[Pasted image 20250718154819.png]]
+![[reading/DP-900/Exam Prep/attachments/Pasted image 20250718154819.png]]
 
-[[03-10 Identify Azure Cosmos DB APIs]]
-
----
-![[Pasted image 20250718155012.png]]
+[[reading/DP-900/03 Introduction to Microsoft Azure Data non-relational data in Azure/03b Explore fundamentals of Azure Cosmos DB/03-10 Identify Azure Cosmos DB APIs]]
 
 ---
-![[Pasted image 20250718155102.png]]
+![[reading/DP-900/Exam Prep/attachments/Pasted image 20250718155012.png]]
+
+---
+![[reading/DP-900/Exam Prep/attachments/Pasted image 20250718155102.png]]
 

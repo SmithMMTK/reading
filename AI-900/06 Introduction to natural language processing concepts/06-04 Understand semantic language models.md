@@ -19,7 +19,7 @@
 
 ใน _พื้นที่สามมิติ_ (_three-dimensional space_) เวกเตอร์เหล่านี้จะมีหน้าตาประมาณนี้:
 
-[[04-03 How do language models work?]]
+[[reading/AI-900/04 Introduction to generative AI concepts/04-03 How do language models work?]]
 
 ![A diagram of tokens plotted on a three-dimensional space.](https://learn.microsoft.com/en-us/training/wwl-data-ai/introduction-language/media/word-embeddings.png)
 

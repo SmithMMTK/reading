@@ -1,9 +1,9 @@
 
-![[Pasted image 20250717154015.png]]
+![[reading/DP-900/Exam Prep/attachments/Pasted image 20250717154015.png]]
 
 https://demand-planning.com/2020/01/20/the-differences-between-descriptive-diagnostic-predictive-cognitive-analytics/
 
-![[Pasted image 20250717151451.png]]
+![[reading/DP-900/Exam Prep/attachments/Pasted image 20250717151451.png]]
 
 - _Descriptive Analytics_ คือขั้นแรกของการวิเคราะห์ข้อมูล ซึ่งง่ายที่สุดและเป็นที่นิยมในองค์กรทั่วไป เพราะใช้เพื่ออธิบายว่า _อะไรเกิดขึ้นบ้างในอดีต_ โดยจะใช้ข้อมูลจากอดีตมาสรุป เช่น รายงานต่าง ๆ ที่บริษัทสร้างขึ้น หรือการ _query_ ข้อมูลเพื่อสรุปผล อาจรวมถึงการใช้ _classification_ และ _clustering_ ในการค้นหารูปแบบจากข้อมูล โดยอาจใช้ _machine learning_ เพื่อจัดกลุ่มหรือสกัดข้อมูลสำคัญออกมา 
   

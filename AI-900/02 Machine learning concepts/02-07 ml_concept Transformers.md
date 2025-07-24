@@ -1,4 +1,4 @@
-[[04-04 Understand how transformers advance language models]]
+[[reading/AI-900/04 Introduction to generative AI concepts/04-04 Understand how transformers advance language models]]
 # Transformers
 
 โมเดล AI สมัยใหม่ที่ใช้สร้างข้อความ เช่น ChatGPT หรือเครื่องมือสรุปข้อความ ล้วนขับเคลื่อนโดย *language models* ซึ่งเป็นโมเดล machine learning ชนิดพิเศษ ที่ใช้สำหรับ *Natural Language Processing (NLP)* โดยเฉพาะ

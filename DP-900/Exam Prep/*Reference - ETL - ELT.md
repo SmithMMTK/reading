@@ -9,7 +9,7 @@ https://learn.microsoft.com/en-us/azure/architecture/data-guide/relational-data/
 
 
 ---
-![[Pasted image 20250717170647.png]]
+![[reading/DP-900/Exam Prep/attachments/Pasted image 20250717170647.png]]
 
 - Extract : The CRM system
 - Load : The data warehouse

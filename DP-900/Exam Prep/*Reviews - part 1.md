@@ -2,7 +2,7 @@
 
 ---
 
-![[Pasted image 20250717221752.png]]
+![[reading/DP-900/Exam Prep/attachments/Pasted image 20250717221752.png]]
 
 > **JSON + Schema ยืดหยุ่น + เขียนเยอะ → Document store**
 > 👉 เหมาะสุดสำหรับการเขียนข้อมูลแบบ flexible ที่ไม่รู้ล่วงหน้าว่าจะมี field อะไรบ้าง
@@ -23,16 +23,16 @@
 
 ---
 
-![[Pasted image 20250717222149.png]]
+![[reading/DP-900/Exam Prep/attachments/Pasted image 20250717222149.png]]
 
 ---
 
-![[Pasted image 20250717222324.png]]
+![[reading/DP-900/Exam Prep/attachments/Pasted image 20250717222324.png]]
 
 ---
-![[Pasted image 20250717222422.png]]
+![[reading/DP-900/Exam Prep/attachments/Pasted image 20250717222422.png]]
 
-![[Pasted image 20250718084038.png]]
+![[reading/DP-900/Exam Prep/attachments/Pasted image 20250718084038.png]]
 
 ### OLTP characteristic 
 

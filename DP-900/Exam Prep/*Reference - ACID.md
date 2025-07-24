@@ -21,9 +21,9 @@
 
 ---
 
-![[Pasted image 20250718114017.png]]
+![[reading/DP-900/Exam Prep/attachments/Pasted image 20250718114017.png]]
 
-![[Pasted image 20250718152808.png]]
+![[reading/DP-900/Exam Prep/attachments/Pasted image 20250718152808.png]]
 
 | **ชื่อเต็ม**        | **คำจำง่าย**     | **คำอธิบายแบบชีวิตจริง**                     |
 | ------------------- | ---------------- | -------------------------------------------- |
@@ -54,5 +54,5 @@ C**on**sistency = Correct state **only**
 I = Individual **I**solation  
 D = Done = **D**urable
 
-![[Pasted image 20250718151021.png]]
+![[reading/DP-900/Exam Prep/attachments/Pasted image 20250718151021.png]]
 YNN
