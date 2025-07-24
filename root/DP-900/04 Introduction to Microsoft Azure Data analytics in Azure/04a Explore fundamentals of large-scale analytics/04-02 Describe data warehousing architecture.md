@@ -1,0 +1,13 @@
+
+สถาปัตยกรรมของ _large-scale data analytics_ อาจมีความแตกต่างกันไปตามเทคโนโลยีที่ใช้ในการสร้างระบบ แต่โดยทั่วไปแล้วจะประกอบด้วยองค์ประกอบหลัก ๆ ต่อไปนี้:
+
+![Diagram showing data ingestion and processing, an analytical data store, an analytical data model, and data visualization.](https://learn.microsoft.com/en-us/training/wwl-data-ai/examine-components-of-modern-data-warehouse/media/modern-data-warehousing.png)
+
+1. _Data ingestion and processing_ – ข้อมูลจากแหล่งต่าง ๆ เช่น _transactional data stores_, ไฟล์, _real-time streams_ หรือแหล่งอื่น ๆ จะถูกโหลดเข้าสู่ _data lake_ หรือ _relational data warehouse_ ขั้นตอนนี้มักใช้กระบวนการ _ETL (extract, transform, and load)_ หรือ _ELT (extract, load, and transform)_ ซึ่งจะทำความสะอาด คัดกรอง และจัดโครงสร้างข้อมูลใหม่ให้พร้อมสำหรับการวิเคราะห์  ในการทำ _ETL_ จะมีการแปลงข้อมูลก่อนโหลดเข้า _analytical store_ ส่วน _ELT_ จะโหลดเข้าก่อนแล้วจึงค่อยแปลง  ไม่ว่าจะใช้แบบใด โครงสร้างข้อมูลสุดท้ายจะถูกออกแบบมาเพื่อให้เหมาะกับการสืบค้นเชิงวิเคราะห์ (_analytical queries_)  การประมวลผลข้อมูลมักใช้ระบบแบบกระจาย (_distributed systems_) ที่สามารถจัดการข้อมูลปริมาณมากแบบขนานโดยใช้ _multi-node clusters_  การรับข้อมูล (_data ingestion_) ครอบคลุมทั้งการประมวลผลแบบ _batch_ ของข้อมูลแบบคงที่ และแบบ _real-time_ ของข้อมูลสตรีม
+
+2. _Analytical data store_ – แหล่งเก็บข้อมูลสำหรับการวิเคราะห์ขนาดใหญ่รวมถึง _relational data warehouses_, _data lakes_ ที่อยู่บนระบบไฟล์ และโครงสร้างแบบผสม (_hybrid_) ที่รวมคุณสมบัติของทั้ง _data warehouse_ และ _data lake_ ซึ่งบางครั้งเรียกว่า _data lakehouse_ หรือ _lake databases_ ซึ่งจะกล่าวถึงเพิ่มเติมภายหลัง
+
+3. _Analytical data model_ – แม้ _data analyst_ และ _data scientist_ จะสามารถทำงานกับข้อมูลใน _analytical store_ ได้โดยตรง แต่มักจะมีการสร้าง _data model_ ขึ้นมาเพื่อรวมข้อมูล (_pre-aggregate_) ให้สามารถนำไปทำ _report_, _dashboard_ หรือ _interactive visualization_ ได้ง่ายขึ้น  โดยทั่วไป _data model_ เหล่านี้มักอยู่ในรูปของ _cubes_ ซึ่งรวบรวมค่าตัวเลขตาม _dimensions_ ต่าง ๆ (เช่น ยอดขายรวมตามสินค้าและภูมิภาค)  โมเดลจะอธิบายความสัมพันธ์ระหว่างค่าข้อมูลกับ _dimensional entities_ เพื่อรองรับการวิเคราะห์แบบ _drill-up/drill-down_
+
+4. _Data visualization_ – ผู้วิเคราะห์ข้อมูลจะใช้ข้อมูลจาก _analytical models_ หรือ _analytical stores_ เพื่อสร้าง _reports_, _dashboards_ และ _visualizations_ ต่าง ๆ  รวมถึงผู้ใช้งานทั่วไปในองค์กรที่ไม่ใช่สายเทคนิค ก็สามารถวิเคราะห์ข้อมูลหรือสร้างรายงานได้ด้วยตัวเอง (_self-service_)  การแสดงผลข้อมูลจะช่วยให้เห็น _trends_, _comparisons_, และ _key performance indicators (KPIs)_ ของธุรกิจหรือองค์กร โดยอาจอยู่ในรูปของรายงานพิมพ์ กราฟในเอกสารหรือสไลด์ _PowerPoint_, _web-based dashboards_ หรือสภาพแวดล้อมแบบ _interactive_ ที่ผู้ใช้สามารถสำรวจข้อมูลผ่านภาพได้
+
